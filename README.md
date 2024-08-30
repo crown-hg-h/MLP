@@ -10,4 +10,5 @@
 
 ##数据集与模型简介
 
-![image](https://github.com/user-attachments/assets/618b5729-644f-446b-92e7-9bf3cb40f964)
+![image](https://github.com/user-attachments/assets/7bff0c34-66d9-4a9a-9b61-ba1d495b7002)
+
